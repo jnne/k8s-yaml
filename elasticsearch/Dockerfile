@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/elasticsearch:v6.3.0
+FROM k8s.gcr.io/elasticsearch:v5.6.4
 MAINTAINER hegeng he.geng@qq.com
